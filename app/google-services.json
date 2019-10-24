@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "420636108866",
+    "firebase_url": "https://iottecsupeqc.firebaseio.com",
+    "project_id": "iottecsupeqc",
+    "storage_bucket": "iottecsupeqc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420636108866:android:6eeb4d6ed03b5192ff25db",
+        "android_client_info": {
+          "package_name": "pe.hypergis.firebaseapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420636108866-ubee312eu58qlhc1ig0kqn851mprio4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.hypergis.firebaseapp2",
+            "certificate_hash": "bdbb763dd4a2fc7e6ab0d63e52150feedefac5ba"
+          }
+        },
+        {
+          "client_id": "420636108866-t5oit51997no36b111188u0pp634m6sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl4zUW4emeI4RpUkBctdjIHHEi8SKtxWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420636108866-t5oit51997no36b111188u0pp634m6sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
